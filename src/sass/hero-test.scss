@@ -14,7 +14,7 @@ $schedule-bar: 4.6875rem !default;
 }
 
 #chat-bg {
-  padding-topmin-height: 100vh;
+  min-height: 50vh;
   background-color: #ddd;
 }
 
@@ -25,6 +25,10 @@ $schedule-bar: 4.6875rem !default;
 
 .cs-bg-color {
   background-color: #999;
+}
+
+#ef-bg {
+  background-color: #444;
 }
 
 .columns {

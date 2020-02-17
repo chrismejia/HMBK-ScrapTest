@@ -1,5 +1,11 @@
 import React from "react";
-import { BottomNav, ChatSchedule, Hero, TopNav } from "./components/";
+import {
+  BottomNav,
+  ChatSchedule,
+  EditorialFeed,
+  Hero,
+  TopNav
+} from "./components/";
 
 function App() {
   return (
@@ -7,6 +13,7 @@ function App() {
       <TopNav />
       <Hero />
       <ChatSchedule />
+      <EditorialFeed />
       <BottomNav />
     </div>
   );

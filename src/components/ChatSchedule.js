@@ -6,13 +6,18 @@ function ChatSchedule() {
       <div className="container is-fluid">
         <div className="columns content is-mobile">
           <div className="column is-2 cs-bg-color">
-            <h1>Date</h1>
+            <h3>Date</h3>
             <ol>
+              <li>Date</li>
+              <li>Date</li>
+              <li>Date</li>
+              <li>Date</li>
+              <li>Date</li>
               <li>Date</li>
             </ol>
           </div>
           <div className="column is-6 cs-bg-color">
-            <h1>Show</h1>
+            <h3>Show Details</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -30,7 +35,7 @@ function ChatSchedule() {
             </p>
           </div>
           <div className="column is-4 cs-bg-color">
-            <h1>Halfmoon Chat</h1>
+            <h3>Halfmoon Chat</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
